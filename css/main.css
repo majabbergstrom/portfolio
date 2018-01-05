@@ -7,11 +7,12 @@ a {
   text-decoration: none;
 }
 
-.bigscreen {
-  display: none;
-}
 
 nav a:hover {
+  text-decoration: underline;
+}
+
+footer a:hover {
   text-decoration: underline;
 }
 
@@ -54,4 +55,12 @@ nav a:hover {
   background-color: #fff;
   color: #000;
   text-decoration: underline;
+}
+
+@media only screen and (max-width: 25em) {
+
+  .logo {
+    max-width: 500px;
+  }
+
 }
