@@ -12,8 +12,33 @@ nav a:hover {
   text-decoration: underline;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 footer a:hover {
   text-decoration: underline;
+}
+
+.banner404 {
+  background-image: url("{{site.baseurl}}/images/littledude.png");
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: 15% auto;
+}
+
+.banner-content {
+  color: #fff;
+  background-image: url("{{site.baseurl}}/images/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+  background-attachment: fixed;
+  padding-top: 20em;
+}
+
+.banner-link a {
+  color: #fff;
 }
 
 .photo {
