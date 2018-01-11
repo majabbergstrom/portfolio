@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>https://majabbergstrom.github.io/portfolio/</loc>
+  <lastmod>2018-01-10T20:01:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://majabbergstrom.github.io/portfolio/index</loc>
+  <lastmod>2018-01-10T20:01:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://majabbergstrom.github.io/portfolio/portfolio/</loc>
+  <lastmod>2018-01-10T20:01:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://majabbergstrom.github.io/portfolio/canada-150/</loc>
+  <lastmod>2018-01-10T20:01:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://majabbergstrom.github.io/portfolio/orienteering-ottawa/</loc>
+  <lastmod>2018-01-10T20:01:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://majabbergstrom.github.io/portfolio/myally/</loc>
+  <lastmod>2018-01-10T20:01:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://majabbergstrom.github.io/portfolio/cheo-report/</loc>
+  <lastmod>2018-01-10T20:01:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://majabbergstrom.github.io/portfolio/motion/</loc>
+  <lastmod>2018-01-10T20:01:08+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+</urlset>
